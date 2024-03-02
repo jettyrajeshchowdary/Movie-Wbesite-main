@@ -17,7 +17,7 @@ An awesome movie streaming website of yours that has all your favorites at one p
 ## Link To The Website
 
 
-https://xenodochial-rosalind-9966a6.netlify.app/
+
 ## Tech Stack
 
 
